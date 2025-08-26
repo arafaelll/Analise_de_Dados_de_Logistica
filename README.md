@@ -14,7 +14,7 @@
 - **Seaborn e Matplotlib** – Visualização de dados através de gráficos.  
 - **JSON** – Estruturação e leitura de dados.  
 
-## 4\. Conclusão
+## 3\. Conclusão
 
 - A análise revelou que **mais de 80% das entregas estão concentradas nas regiões DF-1 e DF-2**, evidenciando a necessidade de maior alocação de recursos nessas áreas.  
 - Os gráficos por cidade mostraram os locais com maior demanda, possibilitando o ajuste da quantidade de veículos e suas capacidades.  
